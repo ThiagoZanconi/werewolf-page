@@ -6,6 +6,7 @@ import Home from './pages/home';
 import HowToPlay from './pages/howtoplay';
 import Roles from './pages/roles';
 import React from 'react';
+import TextPage from './pages/appads';
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/howtoplay" element={<HowToPlay />} />
             <Route path="/roles" element={<Roles />} />
+            <Route path="/app-ads.txt" element={<TextPage />} />
           </Route>
         </Routes>
       </React.StrictMode>
