@@ -6,7 +6,7 @@ function Roles() {
                 <h1 className='flex mb-5 slide-in-right'>
                     Roles
                 </h1>
-                <div className='flex border-2 border-red-900 rounded-md p-4 gap-4 bg-gray-800 slide-in-left mb-5'>
+                <div className='flex flex-wrap border-2 border-red-900 rounded-md p-4 gap-4 bg-gray-800 slide-in-left'>
                     <div className="">
                         <p className="text-2xl text-justify">
                             Werewolf
