@@ -32,6 +32,41 @@ function Roles() {
                             Vigilante
                         </p>
                     </div>
+                    <div className="">
+                        <p className="text-2xl text-justify">
+                            Protector
+                        </p>
+                    </div>
+                    <div className="">
+                        <p className="text-2xl text-justify">
+                            Veteran
+                        </p>
+                    </div>
+                    <div className="">
+                        <p className="text-2xl text-justify">
+                            Arsonist
+                        </p>
+                    </div>
+                    <div className="">
+                        <p className="text-2xl text-justify">
+                            Skeleton
+                        </p>
+                    </div>
+                    <div className="">
+                        <p className="text-2xl text-justify">
+                            Vampire
+                        </p>
+                    </div>
+                    <div className="">
+                        <p className="text-2xl text-justify">
+                            Disguiser
+                        </p>
+                    </div>
+                    <div className="">
+                        <p className="text-2xl text-justify">
+                            Detonator
+                        </p>
+                    </div>
                 </div>
             </div>
         </>
